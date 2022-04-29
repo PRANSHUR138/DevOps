@@ -1,1 +1,5 @@
-print("Hello world")
+print("DevOps")
+print("SPM")
+print("Environmental Studies")
+print("careier skills for it companies")
+print("HPC")
